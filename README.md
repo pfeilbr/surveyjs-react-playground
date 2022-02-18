@@ -16,6 +16,8 @@
 - don't have an account yet / get started / request an account link when complete
 - IaC - tf/cfn always in recommendation
   - link to tf modules repo
+- metrics / alarming - always in recommendations
+- step fns / eb - always in recommendations
 
 ---
 
