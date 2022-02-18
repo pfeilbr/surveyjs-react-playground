@@ -18,7 +18,7 @@
   - link to tf modules repo
 - metrics / alarming - always in recommendations
 - step fns / eb - always in recommendations
-- host on static cloud site
+- host on static cloud site.  make generic / not tied to company version on brianpfeil.com (hugo)
 
 ---
 
