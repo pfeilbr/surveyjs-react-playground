@@ -4,6 +4,7 @@
 - top level categories
   - SaaS, compute, storage (file, db), COTS
   - for each recommendation, show which principles it is tied to and give it a score
+- recommender builder similar to aws pricing calculator.  comprehensive recommendations for your entire solution across compte, storage, integration, etc.
 
 ---
 
