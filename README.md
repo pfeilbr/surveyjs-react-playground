@@ -3,7 +3,7 @@
 - arch recommender based on cloud foundation principles - inline and link to them
 - "cloud foundation principles" shows first with "get started" button
 - top level categories
-  - SaaS, compute, storage (file, db), COTS, integation, real-time (streaming), ML/AI
+  - SaaS, compute, storage (file, db), COTS, integation, real-time (streaming), ML/AI, static employee facing site -> company cdn+waf solution link
   - for each recommendation, show which principles it is tied to and give it a score
 - recommender builder similar to aws pricing calculator.  comprehensive recommendations for your entire solution across compte, storage, integration, etc. e.g. add compute recommendation to plan, add storage recommendation to plan, ...
 - do you have secrets like api keys, crdentials, tokens, etc. that your code needs to access -> secrets manager
@@ -12,7 +12,7 @@
 - service icon next to each service recommendation
 - have an example use case and show a recommendation
 - for each recommended service have a link to the service pricing page and aws pricing calculator
-- have question about a service.  post in CoP
+- need help / have question about a service.  search / post in CoP
 - don't have an account yet / get started / request an account link when complete
 - IaC - tf/cfn always in recommendation
   - link to tf modules repo
