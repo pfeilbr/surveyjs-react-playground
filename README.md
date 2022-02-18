@@ -3,7 +3,7 @@
 - arch recommender based on cloud foundation principles - inline and link to them
 - "cloud foundation principles" shows first with "get started" button
 - top level categories
-  - SaaS, compute, storage (file, db), COTS, integation, real-time (streaming), ML/AI, static employee facing site -> company cdn+waf solution link
+  - SaaS, compute, storage (file, db), COTS, integation, real-time (streaming), ML/AI, static employee facing site -> company cdn+waf solution link, pcf link (static build pack)
   - for each recommendation, show which principles it is tied to and give it a score
 - recommender builder similar to aws pricing calculator.  comprehensive recommendations for your entire solution across compte, storage, integration, etc. e.g. add compute recommendation to plan, add storage recommendation to plan, ...
 - do you have secrets like api keys, crdentials, tokens, etc. that your code needs to access -> secrets manager
