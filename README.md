@@ -18,6 +18,7 @@
   - link to tf modules repo
 - metrics / alarming - always in recommendations
 - step fns / eb - always in recommendations
+- host on static cloud site
 
 ---
 
