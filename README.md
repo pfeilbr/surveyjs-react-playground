@@ -5,6 +5,8 @@
   - SaaS, compute, storage (file, db), COTS
   - for each recommendation, show which principles it is tied to and give it a score
 - recommender builder similar to aws pricing calculator.  comprehensive recommendations for your entire solution across compte, storage, integration, etc.
+- do you have secrets like api keys, crdentials, tokens, etc. that your code needs to access -> secrets manager
+- is business classification >= business critical (ha/dr) multi-az / multi-region
 
 ---
 
