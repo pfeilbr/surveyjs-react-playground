@@ -1,6 +1,7 @@
 # surveyjs-react-playground
 
 - arch recommender based on cloud foundation principles - inline and link to them
+- "cloud foundation principles" shows first with "get started" button
 - top level categories
   - SaaS, compute, storage (file, db), COTS, integation, real-time (streaming), ML/AI
   - for each recommendation, show which principles it is tied to and give it a score
