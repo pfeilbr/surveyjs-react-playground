@@ -4,11 +4,17 @@
 - top level categories
   - SaaS, compute, storage (file, db), COTS, integation, real-time (streaming), ML/AI
   - for each recommendation, show which principles it is tied to and give it a score
-- recommender builder similar to aws pricing calculator.  comprehensive recommendations for your entire solution across compte, storage, integration, etc.
+- recommender builder similar to aws pricing calculator.  comprehensive recommendations for your entire solution across compte, storage, integration, etc. e.g. add compute recommendation to plan, add storage recommendation to plan, ...
 - do you have secrets like api keys, crdentials, tokens, etc. that your code needs to access -> secrets manager
 - is business classification >= business critical (ha/dr) multi-az / multi-region
 - is GxP -> 
 - service icon next to each service recommendation
+- have an example use case and show a recommendation
+- for each recommended service have a link to the service pricing page and aws pricing calculator
+- have question about a service.  post in CoP
+- don't have an account yet / get started / request an account link when complete
+- IaC - tf/cfn always in recommendation
+  - link to tf modules repo
 
 ---
 
